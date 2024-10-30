@@ -1,0 +1,22 @@
+#referal-contact-detail .cmb_metabox .field-title,
+#social-media .cmb_metabox .field-title {
+	width: 15%;
+	float: left;
+}
+#referal-contact-detail .cmb_metabox .field-item,
+#social-media .cmb_metabox .field-item {
+	width: 85%;
+	float: left;
+}
+#referal-contact-detail .cmb_metabox .field,
+#social-media .cmb_metabox .field {
+	border-bottom: none;
+}
+.field-item:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}

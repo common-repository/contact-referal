@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Reference\n"
+"POT-Creation-Date: 2014-02-10 16:01+0700\n"
+"PO-Revision-Date: 2014-02-10 16:09+0700\n"
+"Last-Translator: Pupung Purnama <pupungbp@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact-reference.php:37 contact-reference.php:38
+msgid "Contact"
+msgstr "Kontak"
+
+#: contact-reference.php:39
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: contact-reference.php:40
+msgid "Add New Contact"
+msgstr "Tambah Kontak Baru"
+
+#: contact-reference.php:41
+msgid "Edit Contact"
+msgstr "Edit Kontak"
+
+#: contact-reference.php:42
+msgid "New Contact"
+msgstr "Kontak Baru"
+
+#: contact-reference.php:43
+msgid "All Contacts"
+msgstr "Semua Kontak"
+
+#: contact-reference.php:44
+msgid "View Contact"
+msgstr "Lihat Kontak"
+
+#: contact-reference.php:45
+msgid "Search Contact"
+msgstr "Cari Kontak"
+
+#: contact-reference.php:46
+msgid "No Contact found"
+msgstr "Kontak tidak ditemukan"
+
+#: contact-reference.php:47
+msgid "No Contact found in Trash"
+msgstr "Kontak tidak ditemukan dalam keranjang sampah"
+
+#: contact-reference.php:48
+msgid "Contact Referal"
+msgstr "Kontak Referal"
+
+#: contact-reference.php:77
+msgid "Contact Referral User ID"
+msgstr "ID Kontak Referal"
+
+#: contact-reference.php:112
+msgid "URL for Referral:"
+msgstr "URL untuk Referal"
+
+#: contact-reference.php:128
+msgid "User ID"
+msgstr "ID Kontak"
+
+#: contact-reference.php:129
+msgid "Name"
+msgstr "Nama"
+
+#: contact-reference.php:130 inc/widget.php:44 inc/widget.php:45
+msgid "Address"
+msgstr "Alamat"
+
+#: contact-reference.php:131 inc/widget.php:46
+msgid "Phone"
+msgstr "Telepon"
+
+#: contact-reference.php:132 inc/widget.php:47
+msgid "Email"
+msgstr "Email"
+
+#: inc/widget.php:14
+msgid "Contact Referral Data"
+msgstr "Data Kontak Referal"
+
+#: inc/widget.php:15
+msgid "Contact Referral Data Widget"
+msgstr "Data Kontak Referal Widget"
+
+#: inc/widget.php:48
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: inc/widget.php:49
+msgid "GTalk"
+msgstr ""
+
+#: inc/widget.php:50
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget.php:51
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget.php:52
+msgid "BBM Pin"
+msgstr ""
+
+#: inc/widget.php:73
+msgid "New title"
+msgstr "Judul Baru"
+
+#: inc/widget.php:77
+msgid "Title:"
+msgstr "Judul"
